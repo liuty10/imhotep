@@ -30,7 +30,7 @@ public class PatientSelector : MonoBehaviour {
 			addPatientEntry
 		);
 
-        PatientDirectoryLoader.setPath("../Patients/");
+        PatientDirectoryLoader.setPath("./Patients/");
 
     }
 	public void OnEnable()
