@@ -1,0 +1,21 @@
+{
+    "pathToBlendFile": "full.blend",
+    "meshList": [
+        {
+            "name": "Cava mesh",
+            "color": "#00007F"
+        },
+		{
+            "name": "Liver Mesh",
+            "color": "#AA5500"
+        },
+        {
+            "name": "Portal mesh",
+            "color": "#aa00ff"
+        },
+        {
+            "name": "Tumor mesh",
+            "color": "#CACA00"
+        }
+    ]
+}

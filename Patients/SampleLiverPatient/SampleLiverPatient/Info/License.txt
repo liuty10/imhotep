@@ -1,0 +1,9 @@
+<b>This is a sample patient dataset for the IMHOTEP framework.</b>
+
+Sample segmentations were kindly provided by Lisa Bettscheider and Eldridge Limen.
+The segmentations and meta-data are distributed under the
+"Attribution 3.0 Unported (CC BY 3.0)" License.
+(https://creativecommons.org/licenses/by/3.0/)
+
+The dataset is based on a CT dataset from the Cancer Imaging Archive (TCIA), also released under the same license.
+Please see the License.txt file in the DICOM subfolder for the credits and license of the CT data.

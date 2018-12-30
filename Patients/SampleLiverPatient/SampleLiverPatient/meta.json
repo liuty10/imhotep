@@ -1,0 +1,48 @@
+{
+  "JSONVersion": "10",
+
+  "meta": {
+    "FirstName": "Sample",
+    "LastName": "Patient",
+    "DateOfBirth": "16/04/2018",
+    "DateOfOperation": "Unknown",
+    "Sex": "f",
+    "BodyPart": "Liver",
+    "Diagnosis": "Unknown",
+    "Details": "Unknown",
+    "Warnings": [
+    ]
+  },
+
+    "mesh": {
+      "path": "mesh.json"
+    },
+
+    "dicom": {
+      "path": "DICOM/"
+    },
+
+    "additional information": [
+      {
+        "Name": "Overview",
+        "File": "Info/overview.txt",
+        "Tab": "Overview"
+      },
+      {
+        "Name": "License",
+        "File": "Info/License.txt",
+        "Tab": "License"
+      },
+      {
+        "Name": "CT License",
+        "File": "DICOM/License.txt",
+        "Tab": "CT License"
+      },
+      {
+        "Name": "HTML",
+        "File": "Info/HTMLSample.html",
+        "Tab": "HTML",
+		"Type":"HTML"
+      }
+    ]
+  }
