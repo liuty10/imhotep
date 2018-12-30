@@ -60,5 +60,12 @@ The documentation can be found [here](https://documentation.imhotep-medical.org/
 
 Alternatively, generate the documentation yourself with the _doxygen_ program. There is a Doxyfile included in the root of the project.
 
+How to use this repo:
+---------------
+- Download Unity3d 2017.2.0f1
+- clone this repo to local computer and open it with Unity3d
+- Enable vive or Rift under camera and click "play" button
+- You can also download the .zip file, which contains a compiled Linux version for you to use
+- It also include a sample patients folder, you can copy this patient example to the binary directory and check Liver in this app. 
 
 
