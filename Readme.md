@@ -62,13 +62,14 @@ Alternatively, generate the documentation yourself with the _doxygen_ program. T
 
 How to use this repo:
 ---------------
-- Download Unity3d 2017.2.0f3(Very Important)
+- Download Unity3d 2017.2.0f3 or versions eariler or equal 2017.4.30f1(Very Important)
 - clone this repo to local computer and open it with Unity3d
 - Enable vive or Rift under camera and click "play" button
-- You can also download the .zip file, which contains a compiled Linux version for you to use
+- You can also download the .tar.gz file, which contains a compiled Linux version for you to use
 - It also include a sample patients folder, you can copy this patient example to the binary directory and check Liver in this app. 
+- When you compile the code by yourself, click "player settings" and uncheck the VirtualReality Support under XR Settings, otherwise, the x86_64 version can't run on PC.
 
 Trouble shooting:
 -------------------
-- .x86_64 version can't run
+- .x86_64 version can't run if not unchecking VirtualReality Support
 - .x86 version runs well in both local and VNC environments(I also have problem in the begginning with my computer for developing, when I move to another computer for test, the .x86 version works well in VNC environment.)
